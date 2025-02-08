@@ -6,7 +6,7 @@
 </script>
 
 <a href={link} target="_blank" rel="noreferrer" class="inline-block">
-	<div class="flex cursor-pointer flex-col items-center justify-center px-8 py-4">
+	<div class="flex cursor-pointer flex-col items-center justify-center px-4 py-4">
 		<div
 			class="h-32 w-32 rounded-full border border-gray-300 bg-cover bg-center"
 			style="background-image: url({image})"
@@ -16,6 +16,6 @@
 		>
 			{name}
 		</div>
-		<div class="text-base text-gray-600">{affiliation}</div>
+		<div class="max-w-32 text-center text-base text-gray-600">{affiliation}</div>
 	</div>
 </a>
