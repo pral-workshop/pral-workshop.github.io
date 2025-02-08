@@ -1,4 +1,4 @@
-# PRAL Workshop Website
+# PR4AL Workshop Website
 
 ## Developing
 
