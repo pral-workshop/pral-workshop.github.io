@@ -16,6 +16,6 @@
 		>
 			{name}
 		</div>
-		<div class="max-w-32 text-base text-gray-600">{affiliation}</div>
+		<div class="max-w-32 text-center text-base text-gray-600">{affiliation}</div>
 	</div>
 </a>
