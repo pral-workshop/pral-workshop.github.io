@@ -4,6 +4,7 @@
 	import GithubIcon from 'virtual:icons/mdi/github';
 	import ArxivIcon from 'virtual:icons/simple-icons/arxiv';
 	import Person from '$lib/components/Person.svelte';
+	import NavLink from '$lib/components/NavLink.svelte';
 </script>
 
 <svelte:head>
@@ -27,9 +28,12 @@
 		class="bg-opacity-70 sticky top-0 z-10 flex w-full items-start justify-center bg-gray-100 backdrop-blur-md"
 	>
 		<div class="mx-8 w-full max-w-2xl select-none">
-			<div class="my-4 flex flex-col text-sm md:text-base">
-				<div class="mb-2 font-mono text-xs text-gray-400 uppercase">NAVIGATION</div>
-				<div></div>
+			<div class="my-4 flex flex-row items-center justify-start font-mono text-sm md:text-base">
+				<NavLink href="#schedule">SCHEDULE</NavLink>
+				<div class="mx-2 text-gray-400">/</div>
+				<NavLink href="#speakers">SPEAKERS</NavLink>
+				<div class="mx-2 text-gray-400">/</div>
+				<NavLink href="#organizers">ORGANIZERS</NavLink>
 			</div>
 		</div>
 	</div>
@@ -160,10 +164,12 @@
 		<div class="mx-8 w-full max-w-3xl">
 			<div class="flex w-full flex-col items-center justify-start">
 				<div class="mt-4 mb-8 text-2xl text-gray-500">
-					<a href="#" target="_blank" rel="noreferrer" class="mr-2">
-						<ArxivIcon class="inline-block hover:text-black" />
-					</a>
-					<a href="#" target="_blank" rel="noreferrer" class="mr-2">
+					<a
+						href="https://github.com/pr4al-workshop/pr4al-workshop.github.io"
+						target="_blank"
+						rel="noreferrer"
+						class="mr-2"
+					>
 						<GithubIcon class="inline-block hover:text-black" />
 					</a>
 				</div>
@@ -174,8 +180,11 @@
 					href="http://creativecommons.org/licenses/by-sa/4.0/"
 					target="_blank"
 					rel="noreferrer">Creative Commons Attribution-ShareAlike 4.0 International License</a
-				>. This means you are free to borrow the source code of this website, we just ask that you
-				link back to this page in the footer.
+				>
+				and is based on the
+				<a class="underline" href="https://leela-interp.github.io/" target="_blank" rel="noreferrer"
+					>Leela Interp</a
+				> project. That means you're free to borrow the source code of this website with attribution.
 			</div>
 		</div>
 	</div>
