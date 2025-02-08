@@ -10,7 +10,7 @@
 		"prepare": "svelte-kit sync || echo ''",
 		"format": "prettier --write .",
 		"lint": "prettier --check .",
-		"deploy": "gh-pages -d build"
+		"deploy": "gh-pages -t --nojekyll -d build"
 	},
 	"devDependencies": {
 		"@iconify/json": "^2.2.303",
