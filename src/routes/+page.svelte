@@ -5,6 +5,7 @@
 	import ArxivIcon from 'virtual:icons/simple-icons/arxiv';
 	import Person from '$lib/components/Person.svelte';
 	import NavLink from '$lib/components/NavLink.svelte';
+	import Call from '$lib/call.md';
 </script>
 
 <svelte:head>
@@ -246,6 +247,9 @@
 	</Block>
 	<Block>
 		<h1 class="mb-4 text-2xl font-bold" id="call">Call For Papers</h1>
+		<div class="text-base">
+			<Call />
+		</div>
 	</Block>
 
 	<div class="mt-8 flex w-full justify-center bg-gray-100 pt-4 font-sans">
