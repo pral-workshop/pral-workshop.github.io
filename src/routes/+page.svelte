@@ -27,7 +27,7 @@
 	</div>
 	<!-- <div class="w-full border-b border-gray-500"></div> -->
 	<div
-		class="sticky top-0 z-10 flex w-full items-start justify-center bg-gray-100/70 backdrop-blur-md"
+		class="sticky top-0 z-10 my-2 flex w-full items-start justify-center bg-gray-100/70 backdrop-blur-md md:py-1.5"
 	>
 		<div class="mx-8 w-full max-w-2xl select-none">
 			<div
