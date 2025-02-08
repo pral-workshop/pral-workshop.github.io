@@ -3,6 +3,7 @@
 	import PaperIcon from 'virtual:icons/mingcute/pdf-line';
 	import GithubIcon from 'virtual:icons/mdi/github';
 	import ArxivIcon from 'virtual:icons/simple-icons/arxiv';
+	import Person from '$lib/components/Person.svelte';
 </script>
 
 <svelte:head>
@@ -49,8 +50,50 @@
 	<Block>
 		<h1 class="mb-4 text-2xl font-bold" id="schedule">Tentative Schedule</h1>
 	</Block>
-	<Block>
+	<Block padding="pb-4">
 		<h1 class="mb-4 text-2xl font-bold" id="speakers">Speakers</h1>
+	</Block>
+	<Block size="max-w-4xl">
+		<div class="flex flex-col items-center justify-center">
+			<div class="flex flex-wrap justify-center">
+				<Person
+					name="Graham Neubig"
+					affiliation="CMU"
+					link="https://www.phontron.com/"
+					image="https://www.phontron.com/images/neubig-headshot-2021.jpg"
+				></Person>
+				<Person
+					name="Anca Dragan"
+					affiliation="UC Berkeley"
+					link="https://people.eecs.berkeley.edu/~anca/"
+					image="https://roboticart.org/wp-content/uploads/2022/03/AncaDragan2014d.jpg"
+				></Person>
+				<Person
+					name="Franziska Meier"
+					affiliation="FAIR"
+					link="https://fmeier.github.io/"
+					image="https://fmeier.github.io/images/me-large.png"
+				></Person>
+				<Person
+					name="Eric Wallace"
+					affiliation="OpenAI"
+					link="https://www.ericswallace.com/"
+					image="https://www.ericswallace.com/fullcropped6.jpg"
+				></Person>
+				<Person
+					name="Hao Su"
+					affiliation="UCSD"
+					link="https://cseweb.ucsd.edu/~haosu/"
+					image="https://cseweb.ucsd.edu/~haosu/asset/images/head_new.jpg"
+				></Person>
+				<Person
+					name="Subbarao Kambhampati"
+					affiliation="ASU"
+					link="https://rakaposhi.eas.asu.edu/"
+					image="https://webapp4.asu.edu/photo-ws/directory_photo/subbarao?size=medium&break=1738974376&blankImage2=1"
+				></Person>
+			</div>
+		</div>
 	</Block>
 	<Block>
 		<h1 class="mb-4 text-2xl font-bold" id="panelists">Panelists</h1>
