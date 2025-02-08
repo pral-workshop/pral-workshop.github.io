@@ -21,6 +21,7 @@
 			</div>
 			<div class="inline-block text-4xl">Programmatic Representations for Agent Learning</div>
 			<div class="text-md mt-4 text-gray-800">July 19th, 2025</div>
+			<div class="mt-2 text-sm text-gray-500">Vancouver, Canada</div>
 		</div>
 	</div>
 	<!-- <div class="w-full border-b border-gray-500"></div> -->
@@ -28,12 +29,16 @@
 		class="bg-opacity-70 sticky top-0 z-10 flex w-full items-start justify-center bg-gray-100 backdrop-blur-md"
 	>
 		<div class="mx-8 w-full max-w-2xl select-none">
-			<div class="my-4 flex flex-row items-center justify-start font-mono text-sm md:text-base">
+			<div
+				class="my-2 flex flex-row flex-wrap items-center justify-start font-mono text-sm md:text-base"
+			>
 				<NavLink href="#schedule">SCHEDULE</NavLink>
 				<div class="mx-2 text-gray-400">/</div>
 				<NavLink href="#speakers">SPEAKERS</NavLink>
 				<div class="mx-2 text-gray-400">/</div>
 				<NavLink href="#organizers">ORGANIZERS</NavLink>
+				<div class="mx-2 text-gray-400">/</div>
+				<NavLink href="#call">CALL FOR PAPERS</NavLink>
 			</div>
 		</div>
 	</div>
@@ -52,7 +57,90 @@
 		specific applications ranging from virtual agents to robotics.
 	</Block>
 	<Block>
-		<h1 class="mb-4 text-2xl font-bold" id="schedule">Tentative Schedule</h1>
+		<h1 class="mb-6 text-2xl font-bold" id="schedule">Tentative Schedule</h1>
+		<div>
+			<table class="w-full border-collapse border border-gray-300 text-sm">
+				<thead>
+					<tr class="bg-gray-100">
+						<th class="border border-gray-300 px-4 py-2 text-left whitespace-nowrap">Time</th>
+						<th class="w-full border border-gray-300 px-4 py-2 text-left">Event</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">8:00 - 8:20</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Breakfast</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">8:20 - 8:30</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Opening Remarks</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">8:30 - 9:00</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:00 - 9:30</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:30 - 10:00</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Panel Discussions</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:00 - 10:15</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Coffee Break</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:15 - 11:00</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Oral Presentations</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">11:00 - 11:30</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">11:30 - 12:00</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">12:00 - 12:30</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Panel Discussions</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">12:30 - 14:00</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Lunch & Poster Session I</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:00 - 14:30</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:30 - 15:00</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:00 - 15:30</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Panel Discussions</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:30 - 16:00</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Coffee Break</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">16:00 - 17:00</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Oral Presentations</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">17:10 - 18:00</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Poster Session II</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<div class="mt-4 text-sm text-gray-600 italic">
+			<p>All times are in Pacific Time (PT).</p>
+		</div>
 	</Block>
 	<Block padding="pb-4">
 		<h1 class="mb-4 text-2xl font-bold" id="speakers">Speakers</h1>
@@ -93,10 +181,7 @@
 			</div>
 		</div>
 	</Block>
-	<!-- <Block>
-		<h1 class="mb-4 text-2xl font-bold" id="panelists">Panelists</h1>
-	</Block> -->
-	<Block>
+	<Block padding="pb-4">
 		<h1 class="mb-4 text-2xl font-bold" id="organizers">Organizers</h1>
 	</Block>
 	<Block size="max-w-4xl">
@@ -158,6 +243,9 @@
 				></Person>
 			</div>
 		</div>
+	</Block>
+	<Block>
+		<h1 class="mb-4 text-2xl font-bold" id="call">Call For Papers</h1>
 	</Block>
 
 	<div class="mt-8 flex w-full justify-center bg-gray-100 pt-4 font-sans">
