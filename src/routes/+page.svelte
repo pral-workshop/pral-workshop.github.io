@@ -18,7 +18,7 @@
 				</div>
 			</div>
 			<div class="inline-block text-4xl">Programmatic Representations for Agent Learning</div>
-			<div class="text-md mt-4 text-gray-700">July 19th, 2025</div>
+			<div class="text-md mt-4 text-gray-800">July 19th, 2025</div>
 		</div>
 	</div>
 	<!-- <div class="w-full border-b border-gray-500"></div> -->
