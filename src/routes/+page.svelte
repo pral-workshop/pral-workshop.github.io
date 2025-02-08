@@ -13,7 +13,7 @@
 
 <div class="text-lg">
 	<div class="flex w-full items-end justify-center font-serif">
-		<div class="mx-8 w-full max-w-2xl pt-8 pb-12 text-black md:pt-28">
+		<div class="mx-8 w-full max-w-2xl pt-8 pb-8 text-black md:pt-28">
 			<div class="mb-4 text-sm">
 				<div class="inline-block rounded-md border border-black px-2 py-1 font-mono">
 					ICML WORKSHOP
@@ -26,7 +26,7 @@
 	</div>
 	<!-- <div class="w-full border-b border-gray-500"></div> -->
 	<div
-		class="bg-opacity-70 sticky top-0 z-10 flex w-full items-start justify-center bg-gray-100 backdrop-blur-md"
+		class="sticky top-0 z-10 flex w-full items-start justify-center bg-gray-100/70 backdrop-blur-md"
 	>
 		<div class="mx-8 w-full max-w-2xl select-none">
 			<div
@@ -42,12 +42,12 @@
 			</div>
 		</div>
 	</div>
-	<div class="flex w-full items-end justify-center font-serif">
+	<!-- <div class="flex w-full items-end justify-center font-serif">
 		<div class="mx-8 w-full max-w-2xl text-black">
 			<div class="mt-8 mb-8 flex text-sm md:text-base"></div>
 		</div>
-	</div>
-	<Block padding="pb-8" class="md:text-justify">
+	</div> -->
+	<Block padding="py-8" class="md:text-justify">
 		This workshop explores the emerging paradigm of using programmatic representations to enhance
 		the interpretability, generalizability, efficiency, and scalability of frameworks for agent
 		learning and decision-making. The goal of this workshop is to bring together the sequential
