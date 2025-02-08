@@ -86,7 +86,7 @@
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:30 - 10:00</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Panel Discussions</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Panel Discussion 1</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:00 - 10:15</td>
@@ -102,39 +102,47 @@
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">11:30 - 12:00</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Poster Session</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">12:00 - 13:00</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Lunch</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">13:00 - 13:30</td>
 						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">12:00 - 12:30</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Panel Discussions</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">13:30 - 14:00</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Poster Session</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">12:30 - 14:00</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Lunch & Poster Session I</td>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:00 - 14:30</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk</td>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:30 - 15:00</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk</td>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:00 - 15:30</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Panel Discussions</td>
-					</tr>
-					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:30 - 16:00</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:00 - 14:15</td>
 						<td class="w-full border border-gray-300 px-4 py-2">Coffee Break</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">16:00 - 17:00</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Oral Presentations</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:15 - 14:45</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">17:10 - 18:00</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Poster Session II</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:45 - 15:15</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Poster Session</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:15 - 15:45</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Panel Discussion 2</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:45 - 16:15</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">16:15 - 16:45</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Poster Session</td>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">16:45 - 17:30</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Social Networking Session</td>
 					</tr>
 				</tbody>
 			</table>
