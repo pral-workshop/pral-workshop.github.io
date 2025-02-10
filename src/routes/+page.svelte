@@ -144,7 +144,7 @@
 				></Person>
 				<Person
 					name="Wenhao Yu"
-					affiliation="DeepMind"
+					affiliation="Google DeepMind"
 					link="https://wenhaoyu.weebly.com/"
 					image="https://wenhaoyu.weebly.com/uploads/1/4/2/4/14248981/published/img-1723.jpg?1687933779"
 				></Person>
@@ -156,7 +156,7 @@
 				></Person>
 				<Person
 					name="Dale Schuurmans"
-					affiliation="DeepMind / Alberta"
+					affiliation="Google DeepMind / Alberta"
 					link="https://webdocs.cs.ualberta.ca/~dale/"
 					image="https://storage.googleapis.com/gweb-research2023-media/pubtools/4145.png"
 				></Person>
@@ -185,7 +185,7 @@
 					name="Shao-Hua Sun"
 					affiliation="National Taiwan University"
 					link="https://shaohua0116.github.io/"
-					image="https://shaohua0116.github.io/images/profile.jpg"
+					image="./imgs/sun.png"
 				></Person>
 				<Person
 					name="Levi Lelis"
@@ -195,7 +195,7 @@
 				></Person>
 				<Person
 					name="Xinyun Chen"
-					affiliation="DeepMind"
+					affiliation="Google DeepMind"
 					link="https://jungyhuk.github.io/"
 					image="https://jungyhuk.github.io/imgs/Xinyun.jpg"
 				></Person>
@@ -225,7 +225,7 @@
 				></Person>
 				<Person
 					name="Kuang-Huei Lee"
-					affiliation="DeepMind"
+					affiliation="Google DeepMind"
 					link="https://kuanghuei.github.io/"
 					image="https://kuanghuei.github.io/docs/images/profile.jpg"
 				></Person>
