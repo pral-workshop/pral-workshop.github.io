@@ -1,7 +1,1 @@
-This workshop explores the emerging paradigm of using programmatic representations to enhance
-the interpretability, generalizability, efficiency, and scalability of frameworks for agent
-learning and decision-making. The goal of this workshop is to bring together the sequential
-decision- making community, which includes robot learning, robotics, reinforcement learning,
-imitation learning, planning, search, and optimal control, with the code generation and program
-synthesis communities to confront the challenges in agent and robot learning at scale and solve
-specific applications ranging from virtual agents to robotics.
+This workshop explores using programmatic representations (code, symbolic programs, rules) to enhance agent learning and address key challenges in creating autonomous agents.  By leveraging structured representations, we aim to improve interpretability, generalization, efficiency, and safety in agent systems, moving beyond the limitations of "black box" deep learning models.  The workshop brings together researchers in sequential decision-making and program synthesis/code generation to discuss using programs as policies (e.g., Code as Policies, RoboTool), reward functions (e.g., Eureka), task generators (e.g., GenSim), and environment models (e.g., WorldCoder), ultimately driving progress toward robust, understandable, and adaptable autonomous agents across diverse applications.
