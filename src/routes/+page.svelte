@@ -213,7 +213,7 @@
 				></Person>
 				<Person
 					name="Ching-An Cheng"
-					affiliation="Microsoft Research"
+					affiliation="Google Research"
 					link="https://www.chinganc.com/"
 					image="https://www.chinganc.com/static/images/ching-an-cheng.jpg"
 				></Person>
