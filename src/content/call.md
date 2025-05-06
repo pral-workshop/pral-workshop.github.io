@@ -1,4 +1,4 @@
-[Open Review](https://openreview.net/group?id=ICML.cc/2025/Workshop/PRAL)
+[<u>Open Review</u>](https://openreview.net/group?id=ICML.cc/2025/Workshop/PRAL)
 
 We invite the submission of research papers and position papers on the topic of programmatic representations for agent learning. This workshop aims to explore the use of program-like structures to represent policies, reward functions, tasks, and environment models.
 
@@ -26,4 +26,4 @@ Accepted papers will be presented during poster sessions, with exceptional submi
 
 All accepted papers will be made publicly available as non-archival reports, allowing for future submissions to archival conferences or journals.
 
-Please submit your papers to the [Open Review](https://openreview.net/group?id=ICML.cc/2025/Workshop/PRAL) site.
+Please submit your papers to the [<u>Open Review</u>](https://openreview.net/group?id=ICML.cc/2025/Workshop/PRAL) site.
