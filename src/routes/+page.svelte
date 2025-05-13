@@ -22,7 +22,7 @@
 				</div>
 			</div>
 			<div class="inline-block text-4xl">Programmatic Representations for Agent Learning</div>
-			<div class="text-md mt-4 text-gray-800">July 19th, 2025</div>
+			<div class="text-md mt-4 text-gray-800">July 18th, 2025</div>
 			<div class="mt-2 text-sm text-gray-500">Vancouver, Canada</div>
 		</div>
 	</div>
@@ -54,6 +54,10 @@
 	</Block>
 	<Block>
 		<h1 class="mb-6 text-2xl font-bold" id="schedule">Tentative Schedule</h1>
+		<div class="mb-6 text-sm">
+			<p><strong>Location:</strong> Meeting 301-305</p>
+			<p><strong>Room Capacity:</strong> 710</p>
+		</div>
 		<div>
 			<table class="w-full border-collapse border border-gray-300 text-sm">
 				<thead>

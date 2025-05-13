@@ -20,7 +20,7 @@ Topics of interest include, but are not limited to:
 * Submission Deadline: May 24, 2025, AoE
 * Author Notification: June 7, 2025, AoE
 * Camera Ready Deadline: July 7, 2025, AoE
-* Workshop Date: July 18/19, 2025
+* Workshop Date: July 18, 2025
 
 Accepted papers will be presented during poster sessions, with exceptional submissions selected for spotlight oral presentations.
 
