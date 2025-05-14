@@ -12,8 +12,8 @@ Topics of interest include, but are not limited to:
 
 **Submission Types:**
 
-* **Full Papers:** Up to 8 pages in ICML format, with potentially large-scale experiments.
-* **Short Papers:** 2-4 pages in ICML format, with proof-of-concept demonstrations (demos, code, blog posts).
+* **Full Papers:** Up to 9 pages in ICML or NeurIPS format, with potentially large-scale experiments.
+* **Short Papers:** 2-4 pages in ICML or NeurIPS format, with proof-of-concept demonstrations (demos, code, blog posts).
 
 **Important Dates:**
 
