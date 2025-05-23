@@ -17,8 +17,8 @@ Topics of interest include, but are not limited to:
 
 **Important Dates:**
 
-* Submission Deadline: May 24, 2025, AoE
-* Author Notification: June 7, 2025, AoE
+* Submission Deadline: ~~May 24, 2025, AoE~~ May 30, 2025, AoE
+* Author Notification: ~~June 7, 2025, AoE~~ June 13, 2025, AoE
 * Camera Ready Deadline: July 7, 2025, AoE
 * Workshop Date: July 18, 2025
 
