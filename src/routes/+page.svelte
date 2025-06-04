@@ -73,11 +73,11 @@
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">8:30 - 9:00</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk 1</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk: Bo An</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:00 - 9:30</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk 2</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk: Amy Zhang</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:00 - 10:15</td>
@@ -89,11 +89,11 @@
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">11:00 - 11:30</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk 3</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk: Dale Schuurmans</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">11:30 - 12:00</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk 4</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk: Sheila McIlraith</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">12:00 - 13:00</td>
@@ -105,11 +105,11 @@
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:00 - 14:30</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk 5</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk: Jason Ma</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">14:30 - 15:00</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk 6</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk: Wenhao Yu</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">15:00 - 16:00</td>
@@ -171,10 +171,10 @@
 					image="https://wenhaoyu.weebly.com/uploads/1/4/2/4/14248981/published/img-1723.jpg?1687933779"
 				></Person>
 				<Person
-					name="Zora Wang (tentative)"
-					affiliation="CMU"
-					link="https://zorazrw.github.io/"
-					image="https://zorazrw.github.io/images/profile.jpg"
+					name="Jason Ma"
+					affiliation="University of Pennsylvania"
+					link="https://jasonma2016.github.io/"
+					image="https://jasonma2016.github.io/jasonma.jpeg"
 				></Person>
 			</div>
 		</div>
