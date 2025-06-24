@@ -7,6 +7,7 @@
 	import NavLink from '$lib/components/NavLink.svelte';
 	import Call from '../content/call.md';
 	import Intro from '../content/intro.md';
+	import PaperList from '$lib/components/PaperList.svelte';
 </script>
 
 <svelte:head>
@@ -22,7 +23,13 @@
 				</div>
 			</div>
 			<div class="inline-block text-4xl">Programmatic Representations for Agent Learning</div>
-			<div class="text-md mt-4 text-gray-800">July 18th, 2025</div>
+			<div class="mt-8 flex items-center space-x-2">
+				<div class="font-mono text-sm text-gray-500">Sponsored by</div>
+				<a href="https://basis.ai" target="_blank" rel="noreferrer">
+					<img src="/imgs/basis-logo.svg" alt="Basis Logo" class="h-4" />
+				</a>
+			</div>
+			<div class="text-md mt-8 text-gray-800">July 18th, 2025</div>
 			<div class="mt-2 text-sm text-gray-500">Vancouver, Canada</div>
 		</div>
 	</div>
@@ -41,6 +48,8 @@
 				<NavLink href="#organizers">ORGANIZERS</NavLink>
 				<div class="mx-2 text-gray-400">/</div>
 				<NavLink href="#call">CALL FOR PAPERS</NavLink>
+				<div class="mx-2 text-gray-400">/</div>
+				<NavLink href="#papers">ACCEPTED PAPERS</NavLink>
 			</div>
 		</div>
 	</div>
@@ -247,6 +256,10 @@
 		<div class="text-base">
 			<Call />
 		</div>
+	</Block>
+	<Block>
+		<h1 class="mb-4 text-2xl font-bold" id="papers">Accepted Papers</h1>
+		<PaperList />
 	</Block>
 
 	<div class="mt-8 flex w-full justify-center bg-gray-100 pt-4 font-sans">
