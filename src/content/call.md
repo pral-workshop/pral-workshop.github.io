@@ -27,3 +27,19 @@ Accepted papers will be presented during poster sessions, with exceptional submi
 All accepted papers will be made publicly available as non-archival reports, allowing for future submissions to archival conferences or journals.
 
 Please submit your papers to the [<u>Open Review</u>](https://openreview.net/group?id=ICML.cc/2025/Workshop/PRAL) site.
+
+<h1 class="py-4 text-2xl font-bold" id="camera-ready">Camera Ready Instructions</h1>
+
+Please incorporate reviewers' feedbacks and prepare for your camera-ready submission. Please submit your camera-ready version on OpenReview. Your camera-ready submission should be de-anonymized, and include at most 9 pages for full papers, and 2-4 pages for short papers, excluding the references and appendices. The paper can be in ICML or NeurIPS formats, with footnote “ICML 2025 Workshop on Programmatic Representations for Agent Learning”.
+
+Camera-Ready LaTeX Templates:
+
+- [<u>ICML Format</u>](/tex/icml2025_pral.sty)
+- [<u>NeurIPS Format</u>](/tex/icml2025_pral_neurips.sty)
+
+The camera-ready deadline is July 7, 2025, Anywhere on Earth (AoE).
+
+
+
+
+
