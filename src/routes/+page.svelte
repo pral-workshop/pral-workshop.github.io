@@ -82,7 +82,7 @@
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">8:30 - 9:00</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk: Bo An</td>
+						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk: Animesh Garg</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:00 - 9:30</td>
@@ -162,10 +162,10 @@
 					image="https://storage.googleapis.com/gweb-research2023-media/pubtools/4145.png"
 				></Person>
 				<Person
-					name="Bo An"
-					affiliation="Nanyang Technological University"
-					link="https://personal.ntu.edu.sg/boan/"
-					image="https://personal.ntu.edu.sg/boan/images/boan.jpg"
+					name="Animesh Garg"
+					affiliation="Georgia Tech"
+					link="https://animesh.garg.tech/"
+					image="https://animesh.garg.tech/assets/animesh-garg-profile-white-nov23.jpg"
 				></Person>
 				<Person
 					name="Amy Zhang"
