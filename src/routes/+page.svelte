@@ -150,18 +150,6 @@
 		<div class="flex flex-col items-center justify-center">
 			<div class="flex flex-wrap justify-center">
 				<Person
-					name="Sheila McIlraith"
-					affiliation="University of Toronto"
-					link="https://www.cs.toronto.edu/~sheila/"
-					image="https://www.cs.toronto.edu/~sheila/img/McIlraith2-lowres.jpg"
-				></Person>
-				<Person
-					name="Dale Schuurmans"
-					affiliation="Google DeepMind / University of Alberta"
-					link="https://webdocs.cs.ualberta.ca/~dale/"
-					image="https://storage.googleapis.com/gweb-research2023-media/pubtools/4145.png"
-				></Person>
-				<Person
 					name="Animesh Garg"
 					affiliation="Georgia Tech"
 					link="https://animesh.garg.tech/"
@@ -174,16 +162,28 @@
 					image="https://amyzhang.github.io/images/profile.png"
 				></Person>
 				<Person
-					name="Wenhao Yu"
-					affiliation="Google DeepMind"
-					link="https://wenhaoyu.weebly.com/"
-					image="https://wenhaoyu.weebly.com/uploads/1/4/2/4/14248981/published/img-1723.jpg?1687933779"
+					name="Dale Schuurmans"
+					affiliation="Google DeepMind / University of Alberta"
+					link="https://webdocs.cs.ualberta.ca/~dale/"
+					image="https://storage.googleapis.com/gweb-research2023-media/pubtools/4145.png"
+				></Person>
+				<Person
+					name="Sheila McIlraith"
+					affiliation="University of Toronto"
+					link="https://www.cs.toronto.edu/~sheila/"
+					image="https://www.cs.toronto.edu/~sheila/img/McIlraith2-lowres.jpg"
 				></Person>
 				<Person
 					name="Jason Ma"
 					affiliation="University of Pennsylvania"
 					link="https://jasonma2016.github.io/"
 					image="https://jasonma2016.github.io/jasonma.jpeg"
+				></Person>
+				<Person
+					name="Wenhao Yu"
+					affiliation="Google DeepMind"
+					link="https://wenhaoyu.weebly.com/"
+					image="https://wenhaoyu.weebly.com/uploads/1/4/2/4/14248981/published/img-1723.jpg?1687933779"
 				></Person>
 			</div>
 		</div>
