@@ -89,12 +89,34 @@
 						<td class="w-full border border-gray-300 px-4 py-2">Invited Talk: Amy Zhang</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:00 - 10:15</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">9:30 - 10:00</td>
 						<td class="w-full border border-gray-300 px-4 py-2">Coffee Break</td>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
-						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:15 - 11:00</td>
-						<td class="w-full border border-gray-300 px-4 py-2">Oral Presentations</td>
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:00 - 10:15</td>
+						<td class="w-full border border-gray-300 px-4 py-2"
+							>Oral Presentation: Improving Parallel Program Performance with LLM Optimizers via
+							Agent-System Interfaces</td
+						>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:15 - 10:30</td>
+						<td class="w-full border border-gray-300 px-4 py-2"
+							>Oral Presentation: Searching Latent Program Spaces</td
+						>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:30 - 10:45</td>
+						<td class="w-full border border-gray-300 px-4 py-2"
+							>Oral Presentation: Lifelong Experience Abstraction and Planning</td
+						>
+					</tr>
+					<tr class="odd:bg-white even:bg-gray-50">
+						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">10:45 - 11:00</td>
+						<td class="w-full border border-gray-300 px-4 py-2"
+							>Sponsor Presentation - <a class="underline" href="https://www.basis.ai/">BASIS</a
+							></td
+						>
 					</tr>
 					<tr class="odd:bg-white even:bg-gray-50">
 						<td class="border border-gray-300 px-4 py-2 whitespace-nowrap">11:00 - 11:30</td>
