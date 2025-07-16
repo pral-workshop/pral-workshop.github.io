@@ -30,7 +30,8 @@
 				</a>
 			</div>
 			<div class="text-md mt-8 text-gray-800">July 18th, 2025</div>
-			<div class="mt-2 text-sm text-gray-500">Vancouver, Canada</div>
+			<div class="mt-2 text-sm text-gray-500">West Meeting Room 301-305</div>
+			<div class="text-sm text-gray-500">Vancouver, Canada</div>
 		</div>
 	</div>
 	<!-- <div class="w-full border-b border-gray-500"></div> -->
@@ -64,7 +65,7 @@
 	<Block>
 		<h1 class="mb-6 text-2xl font-bold" id="schedule">Tentative Schedule</h1>
 		<div class="mb-6 text-sm">
-			<p><strong>Location:</strong> Meeting 301-305</p>
+			<p><strong>Location:</strong> West Meeting Room 301-305</p>
 			<p><strong>Room Capacity:</strong> 710</p>
 		</div>
 		<div>
